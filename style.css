@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100;0,300;0,600;1,100;1,300&display=swap');
+
+.contenedor{
+    background-color: red;
+    background-image: url('/img/banner.jpg');
+}
+.contenedor2{
+    background-color:white;
+    background-image: url('/img/yo.jpeg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
+h1 {
+    font-family: 'Roboto Mono', monospace;
+    font-size: 35px;
+    text-transform: uppercase;
+    text-align: center;
+    line-height: 84.69%px;
+    color: #005677;
+    background-color: #c4c4c4;
+    font-weight: 700;
+  }
+  h2 {
+    font-family: 'Roboto Mono', monospace;
+    text-transform: uppercase;
+    color: #005677;
+    background-color: #c4c4c4;
+  }
+  .primera_lista {
+    
+  font-style: italic;
+  font-weight: bold;
+  font-size: 15px;
+  }
+  .fechas {
+    font-family: 'Roboto Mono', monospace;
+    font-weight: bold;
+    font-size: 15px;
+  }
+  footer{
+    font-family: 'Roboto Mono', monospace;
+    background-color: #005677;
+    text-align: center;
+    text-transform: uppercase;
+    color: #ffff;
+    font-size: 20px;
+    height: 37px;
+   width: 1440px;
+   left: 0px;
+   top: 987px;
+   border-radius: 0px;
+  }
+  a{
+    font-family: 'Roboto Mono', monospace;
+      text-transform: uppercase;
+      color:lightseagreen;
+      text-decoration: none;
+  }
+  p{
+    font-family: 'Roboto Mono', monospace;
+  }
